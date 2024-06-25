@@ -2,5 +2,7 @@
 This is a documentation repo for setting up git-github as remote setup.
 
 ### Change 1:
-Making change directly to github repo.
-Spelling correction done from local Pycharm.
+- Making change directly to github repo.
+- Spelling correction done from local Pycharm.
+- Added bullet points again.
+- Adding one more points.
