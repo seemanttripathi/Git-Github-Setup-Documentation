@@ -6,3 +6,4 @@ This is a documentation repo for setting up git-github as remote setup.
 - Spelling correction done from local Pycharm.
 - Added bullet points again.
 - Adding one more points.
+- Added last point.
